@@ -29,7 +29,7 @@ Change Log
 
 0.0.4
 -------------
-- will install tensorflow and keras for you
+- will install Tensorflow and keras for you
 
 0.0.5
 ---------------
