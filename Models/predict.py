@@ -3,7 +3,7 @@ import os
 from pathlib import  Path
 
 
-model = load_model(os.path.join(Path(__file__).parent , 'cnnCat1.h5'))
+model = load_model(os.path.join(Path(__file__).parent , 'cnnCat4.h5'))
 
 def predict(Eye):
     if Eye is None:
