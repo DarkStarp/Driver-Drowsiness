@@ -13,7 +13,6 @@ Before using this library make sure you have installed following libraries which
 
            sudo apt-get install libasound-dev portaudio19-dev libportaudio2 libportaudiocpp0
            sudo apt-get install ffmpeg libav-tools
-           sudo -s
            pip install pyaudio
 
     pyttsx3 pip install pyttsx3
